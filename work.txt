@@ -1,0 +1,6 @@
+pointers named userID of customers
+node{
+amount credited or debited;
+date
+time
+}
